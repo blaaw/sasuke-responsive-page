@@ -12,7 +12,7 @@
     --color4: #5f567b;
     --color5: #6a2d43;
     --color6: #832F44;
-    --ff: Georgia;
+    --ff: Georgia, 'Times New Roman', Times, serif;
     --p: 1rem var(--ff);
     --h1: 900 2.027rem var(--ff);/*900 controla grosor*/
     --h2: 1.802rem var(--ff);
