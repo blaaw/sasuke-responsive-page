@@ -65,6 +65,7 @@ button:hover {
     color: var(--color2);
 }
 img, .card {
+    border-radius: 1rem;
     max-width: 16rem; /*card son los articles con imagen, evita expansion de caja en PC*/
 }
 /*LAYOUT*/
@@ -102,7 +103,7 @@ article {
 /*MORE SPECIFIC*/
 .card {
     border: 2px solid var(--color4);
-    border-radius: 1rem;
+    
     justify-content: start;
 }
 .headings-sections {
